@@ -9,6 +9,9 @@ Saﬁr Mohammad Shaikh
 ## Technologies Used:
 * Language: Python
 
+## Dataset
+A. L. Maas, R. E. Daly, P. T. Pham, D. Huang, A. Y. Ng, and C. Potts,“Learning  word  vectors  for  sentiment  analysis,”  inProceedings  ofthe   49th   Annual   Meeting   of   the   Association   for   ComputationalLinguistics: Human Language Technologies.   Portland, Oregon, USA:Association  for  Computational  Linguistics,  Jun.  2011,  pp.  142–150.[Online]. Available: https://www.aclweb.org/anthology/P11-1015
+
 ## How to Run?
 1. Clone the Repository:
 ```sh
