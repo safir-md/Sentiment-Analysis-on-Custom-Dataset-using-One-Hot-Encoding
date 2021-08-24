@@ -1,24 +1,28 @@
 # Sentiment-Analysis-on-Custom-Dataset-using-One-Hot-Encoding
-Machine Learning Model for Sentiment Analysis using One-Hot Encoding
 
-Importing Dataset: The dataset is divided as
+## Project Details:
+This is a voluntary project, actually, it is one of my first Machine Learning projects. I have created a Machine Learning -> Deep Neural Network -> Bidirectional Long Short-Term Memory (Bi-LSTM) model for Sentiment Analysis on custom IMDB dataset.
+
+## Project Team Members: 
+Saﬁr Mohammad Shaikh
+
+## Technologies Used:
+* Language: Python
+
+## How to Run?
+1. Clone the Repository:
+```sh
+git clone https://github.com/Safir-Mohammad-Mustak-Shaikh/Sentiment-Analysis-on-Custom-Dataset-using-One-Hot-Encoding.git
+```
+2. Unzip Dataset.7z
+3. Run Model_LSTM.py file.
+```sh
+python3 Model_LSTM.py
+```
+***Note:** You can train the model from beginning or you can use already trained model by loading it.
+
+## More Details:
+
+The dataset is divided as
     1. Training Data 80%
     2. Validation and Testing Data 20%
-Steps:
-1. Download the file "DataSet.7z" and unzip
-2. Change the path in importData() method accordingly
-
-saveModel():
-1. Change the path in saveModel() method
-P.S: Only the path, the file name need not be changed since it will be created automatically
-
-loadModel():
-1. Change the path in loadModel() accordingly
-Hint: You can just copy paths from saveModel() method and paste!
-
-Run:
-1. If you want to save your time, download below files:
-    1. "Model_LSTM.json"
-    2. "lstm_model_weights.h5"
-2. And skip the code from Line# 196 - 205
-3. Else, you can execute complete code, you can do so. The model will take much time to train.
