@@ -13,8 +13,10 @@ Saﬁr Mohammad Shaikh
 1. Clone the Repository:
 ```sh
 git clone https://github.com/Safir-Mohammad-Mustak-Shaikh/Sentiment-Analysis-on-Custom-Dataset-using-One-Hot-Encoding.git
+cd Sentiment-Analysis-on-Custom-Dataset-using-One-Hot-Encoding
 ```
 2. Unzip Dataset.7z
+
 3. Run Model_LSTM.py file.
 ```sh
 python3 Model_LSTM.py
@@ -22,7 +24,6 @@ python3 Model_LSTM.py
 ***Note:** You can train the model from beginning or you can use already trained model by loading it.
 
 ## More Details:
-
 The dataset is divided as
-    1. Training Data 80%
-    2. Validation and Testing Data 20%
+1. Training Data 80%
+2. Validation and Testing Data 20%
