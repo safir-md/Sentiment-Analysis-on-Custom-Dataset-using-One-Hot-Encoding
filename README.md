@@ -26,4 +26,4 @@ cd Sentiment-Analysis-on-Custom-Dataset-using-One-Hot-Encoding
 ```sh
 python3 Model_LSTM.py
 ```
-***Note:** You can train the model from beginning or you can use already trained model by loading it.
+***Note:** You can train the model from beginning or you can use already trained model by loading it. Make sure to change the path according to your machine.
